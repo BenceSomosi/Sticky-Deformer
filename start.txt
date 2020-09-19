@@ -1,0 +1,3 @@
+import js_animPolish.js_animPolish_ui as js_animPolish_ui
+reload (js_animPolish_ui)
+js_animPolish_ui.ui()
